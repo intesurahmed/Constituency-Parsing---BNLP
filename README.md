@@ -20,6 +20,7 @@ Dependencies: ```pip install svgling```
 For example: (Modified raw sentence)
 
 ("HAD9076",("NP",("DM_DMD","এই"),("N_NN","কুন্ডে")),("NP",("N_NN","বীজের"),("N_NN","কেরা"),("N_NN","পদ্ধতি"),("PSP","দ্বারা")),("VGF",("N_NN","বপন"),("V_VM_VNG","করা"),("V_VM_VINF","যেতে"),("V_VM_VF","পারে")),("BLK",("RD_PUNC","৷")))
+<img src="https://github.com/intesurahmed/Constituency-Parsing---BNLP/blob/main/Screenshots/svgling.png">
 
 # Tree Forming
 
@@ -28,3 +29,4 @@ Here, used a python module named ```nltk``` to form the parsing table. Installed
 # svg2pngs
 
 Since the goal is to generate ```.png``` of every sentence of the datasets, it needs to install the font family in local PC. To convert the generated ```.svg``` files to ```.png``` files  used nodejs. 
+<img src="https://github.com/intesurahmed/Constituency-Parsing---BNLP/blob/main/Screenshots/Bengali%20Agriculture%201.png">
